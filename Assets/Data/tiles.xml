@@ -1,0 +1,200 @@
+<data>
+	<Tile name = "testTile">
+		<index>0</index>
+		<name>TestTile</name>
+		<prefabDir>Tiles/LightTile</prefabDir>
+		<imgLocation>imgSource/tiles/testTile</imgLocation>
+		<passable>true</passable>
+		<movementCost>1</movementCost>
+		<coverValue>0</coverValue>
+		<height>0</height>
+		<visibleBlocking>False</visibleBlocking>
+	</Tile>
+	<Tile name = "emptySpace">
+		<index>1</index>
+		<name>testWall</name>
+		<prefabDir>Tiles/TileNone</prefabDir>
+		<imgLocation>imgSource/tiles/testWall</imgLocation>
+		<passable>false</passable>
+		<movementCost>1</movementCost>
+		<height>0</height>
+		<visibleBlocking>true</visibleBlocking>
+	</Tile>
+	<Tile name = "Grass">
+		<index>2</index>
+		<name>Grass</name>
+		<prefabDir>Tiles/TileGrass</prefabDir>
+		<imgLocation>imgSource/tiles/grass</imgLocation>
+		<passable>true</passable>
+		<coverValue>0</coverValue>
+		<movementCost>1</movementCost>
+		<height>0</height>
+		<visibleBlocking>False</visibleBlocking>
+	</Tile>
+	<Tile name = "Sand">
+		<index>3</index>
+		<name>Sand</name>
+		<prefabDir>Tiles/TileSand</prefabDir>
+		<imgLocation>imgSource/tiles/sand</imgLocation>
+		<passable>true</passable>
+		<coverValue>0</coverValue>
+		<movementCost>2</movementCost>
+		<height>0</height>
+		<visibleBlocking>true</visibleBlocking>
+	</Tile>
+	<Tile name = "Mountain">
+		<index>4</index>
+		<name>Mountain</name>
+		<prefabDir>Tiles/TileMountain</prefabDir>
+		<imgLocation>imgSource/tiles/testTile</imgLocation>
+		<passable>false</passable>
+		<coverValue>0</coverValue>
+		<movementCost>1</movementCost>
+		<height>1</height>
+		<visibleBlocking>true</visibleBlocking>
+	</Tile>
+	<Tile name ="Wood Floor">
+		<index>5</index>
+		<name>WoodFloor</name>
+		<prefabDir>Tiles/TileWoodFloor</prefabDir>
+		<imgLocation>imgSource/tiles/Wood</imgLocation>
+		<passable>true</passable>
+		<coverValue>0</coverValue>
+		<movementCost>1</movementCost>
+		<height>0</height>
+		<visibleBlocking>false</visibleBlocking>
+	</Tile>
+	<Tile name ="Stone Floor">
+		<index>6</index>
+		<name>Stone Floor</name>
+		<prefabDir>Tiles/TileStoneFloor</prefabDir>
+		<imgLocation>imgSource/tiles/stoneFloor</imgLocation>
+		<passable>true</passable>
+		<coverValue>0</coverValue>
+		<movementCost>1</movementCost>
+		<height>0</height>
+		<visibleBlocking>false</visibleBlocking>
+	</Tile>
+	
+	<Tile name ="SciFi0">
+		<index>7</index>
+		<name>SciFi0</name>
+		<prefabDir>Tiles/SciFi (0)</prefabDir>
+		<imgLocation>imgSource/tiles/SciFi1Icon</imgLocation>
+		<passable>true</passable>
+		<coverValue>0</coverValue>
+		<movementCost>1</movementCost>
+		<height>0</height>
+		<visibleBlocking>false</visibleBlocking>
+	</Tile>
+			<Tile name ="SciFi1">
+		<index>8</index>
+		<name>SciFi1</name>
+		<prefabDir>Tiles/SciFi (1)</prefabDir>
+		<imgLocation>imgSource/tiles/SciFi2Icon</imgLocation>
+		<passable>true</passable>
+		<coverValue>0</coverValue>
+		<movementCost>1</movementCost>
+		<height>0</height>
+		<visibleBlocking>false</visibleBlocking>
+	</Tile>
+		<Tile name ="SciFi2">
+		<index>9</index>
+		<name>SciFi2</name>
+		<prefabDir>Tiles/SciFi (2)</prefabDir>
+		<imgLocation>imgSource/tiles/SciFi3Icon</imgLocation>
+		<passable>true</passable>
+		<coverValue>0</coverValue>
+		<movementCost>1</movementCost>
+		<height>0</height>
+		<visibleBlocking>false</visibleBlocking>
+	</Tile>
+	<Tile name ="SciFi3">
+		<index>10</index>
+		<name>SciFi3</name>
+		<prefabDir>Tiles/SciFi (3)</prefabDir>
+		<imgLocation>imgSource/tiles/SciFi4Icon</imgLocation>
+		<passable>true</passable>
+		<coverValue>0</coverValue>
+		<movementCost>1</movementCost>
+		<height>0</height>
+		<visibleBlocking>false</visibleBlocking>
+	</Tile>
+	<Tile name ="SciFi4">
+		<index>11</index>
+		<name>SciFi4</name>
+		<prefabDir>Tiles/SciFi (4)</prefabDir>
+		<imgLocation>imgSource/tiles/SciFi5Icon</imgLocation>
+		<passable>true</passable>
+		<coverValue>0</coverValue>
+		<movementCost>1</movementCost>
+		<height>0</height>
+		<visibleBlocking>false</visibleBlocking>
+	</Tile>
+	<Tile name ="SciFi5">
+		<index>12</index>
+		<name>SciFi5</name>
+		<prefabDir>Tiles/SciFi (5)</prefabDir>
+		<imgLocation>imgSource/tiles/SciFi6Icon</imgLocation>
+		<passable>true</passable>
+		<coverValue>0</coverValue>
+		<movementCost>1</movementCost>
+		<height>0</height>
+		<visibleBlocking>false</visibleBlocking>
+	</Tile>
+	<Tile name ="SciFi6">
+		<index>13</index>
+		<name>SciFi6</name>
+		<prefabDir>Tiles/SciFi (6)</prefabDir>
+		<imgLocation>imgSource/tiles/SciFi7Icon</imgLocation>
+		<passable>true</passable>
+		<coverValue>0</coverValue>
+		<movementCost>1</movementCost>
+		<height>0</height>
+		<visibleBlocking>false</visibleBlocking>
+	</Tile>
+	<Tile name ="SciFi7">
+		<index>14</index>
+		<name>SciFi7</name>
+		<prefabDir>Tiles/SciFi (7)</prefabDir>
+		<imgLocation>imgSource/tiles/SciFi8Icon</imgLocation>
+		<passable>true</passable>
+		<coverValue>0</coverValue>
+		<movementCost>1</movementCost>
+		<height>0</height>
+		<visibleBlocking>false</visibleBlocking>
+	</Tile>
+	<Tile name ="SciFi8">
+		<index>14</index>
+		<name>SciFi8</name>
+		<prefabDir>Tiles/SciFi (8)</prefabDir>
+		<imgLocation>imgSource/tiles/SciFi9Icon</imgLocation>
+		<passable>true</passable>
+		<coverValue>0</coverValue>
+		<movementCost>1</movementCost>
+		<height>0</height>
+		<visibleBlocking>false</visibleBlocking>
+	</Tile>
+	<Tile name ="SciFi9">
+		<index>15</index>
+		<name>SciFi9</name>
+		<prefabDir>Tiles/SciFi (9)</prefabDir>
+		<imgLocation>imgSource/tiles/SciFi10Icon</imgLocation>
+		<passable>true</passable>
+		<coverValue>0</coverValue>
+		<movementCost>1</movementCost>
+		<height>0</height>
+		<visibleBlocking>false</visibleBlocking>
+	</Tile>
+	<Tile name ="SciFi10">
+		<index>15</index>
+		<name>SciFi10</name>
+		<prefabDir>Tiles/SciFi (10)</prefabDir>
+		<imgLocation>imgSource/tiles/SciFi11Icon</imgLocation>
+		<passable>true</passable>
+		<coverValue>0</coverValue>
+		<movementCost>1</movementCost>
+		<height>0</height>
+		<visibleBlocking>false</visibleBlocking>
+	</Tile>
+</data>

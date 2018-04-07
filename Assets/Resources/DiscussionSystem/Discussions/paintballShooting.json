@@ -1,0 +1,14 @@
+{
+	"speakers":[{"name":"Emilia","imgHappy":"DiscussionSystem/Portraits/EmiliaHappy","imgVeryHappy":"DiscussionSystem/Portraits/EmiliaVeryHappy","imgSerious":"DiscussionSystem/Portraits/EmiliaSerious","imgShocked": "DiscussionSystem/Portraits/EmiliaShocked"},
+				{"name":"Jay","imgHappy":"DiscussionSystem/Portraits/JayHappy","imgVeryHappy":"DiscussionSystem/Portraits/JayVeryHappy","imgSerious":"DiscussionSystem/Portraits/JaySerious","imgShocked": "DiscussionSystem/Portraits/JayShocked"}
+			   ],
+	
+	"lines":[ {"side":1,"speakerIndex":1,"emote":"Serious","text":"There is a guy up ahead, try to shoot at him"},
+		  {"side":0,"speakerIndex":0,"emote":"Serious","text":"Right! How do I do that?"},
+		  {"side":1,"speakerIndex":1,"emote":"Serious","text":"If you left click on a team member the action menu appears in the center bottom of the screen. The first Icon on the right is associated with whatever weapon or tool you have equipt currently."},
+		  {"side":1,"speakerIndex":1,"emote":"Serious","text":"Once you hit that button on a person armed with a gun then you will be in aiming mode. In this mode when you mouse over an enemy combatant who is within line of sight of the selected unit a line will appear"},
+		  {"side":1,"speakerIndex":1,"emote":"Serious","text":"The line is colored black and red, if the line is red when it reaches the enemy it means they're within optimum range. It is harder to hit them outside of this range. The likelihood of the attack working is shown in the bottom right corner"},
+		  {"side":1,"speakerIndex":1,"emote":"Serious","text":"Be warned, attacking enemies will give them a chance to strike back, but only once per turn."},
+		  {"side":0,"speakerIndex":0,"emote":"VeryHappy","text":"I think I am ready to take him out"}
+		  ]
+}

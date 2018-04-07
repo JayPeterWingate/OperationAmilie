@@ -1,0 +1,14 @@
+{
+	"speakers":[{"name":"Emilia","imgHappy":"DiscussionSystem/Portraits/EmiliaHappy","imgVeryHappy":"DiscussionSystem/Portraits/EmiliaVeryHappy","imgSerious":"DiscussionSystem/Portraits/EmiliaSerious","imgShocked": "DiscussionSystem/Portraits/EmiliaShocked"},
+				{"name":"Saphire","imgHappy":"DiscussionSystem/Portraits/SaphireHappy","imgVeryHappy":"DiscussionSystem/Portraits/SaphireVeryHappy","imgSerious":"DiscussionSystem/Portraits/SaphireSerious","imgShocked": "DiscussionSystem/Portraits/SaphireShocked"},
+				{"name":"Mysterious Figures","imgSerious":"DiscussionSystem/Portraits/Other/Henchmen"}
+			   ],
+	
+	"lines":[ {"side":1,"speakerIndex":1,"emote":"Serious","text":"My apologies, I didn't catch your name"},
+			  {"side":0,"speakerIndex":0,"emote":"Serious","text":"It's Emilia. Thank you for saving me."},
+			  {"side":1,"speakerIndex":1,"emote":"Happy","text":"It appeared you were in a spot of bother, good thing I happened to be in the neibourhood."},
+			  {"side":0,"speakerIndex":0,"emote":"Serious","text":"About that.... Where are we?"},
+			  {"side":1,"speakerIndex":1,"emote":"Shocked","text":"Did you come from that portal?"},
+			  {"side":1,"speakerIndex":2,"emote":"Shocked","text":"There they are! Get them!"},
+			  {"side":0,"speakerIndex":1,"emote":"Shocked","text":"Maybe we should talk later, for now let's get out of here"}]
+}

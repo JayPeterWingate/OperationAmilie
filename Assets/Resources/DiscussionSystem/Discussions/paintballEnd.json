@@ -1,0 +1,23 @@
+{
+	"speakers":[{"name":"Emilia","imgHappy":"DiscussionSystem/Portraits/EmiliaHappy","imgVeryHappy":"DiscussionSystem/Portraits/EmiliaVeryHappy","imgSerious":"DiscussionSystem/Portraits/EmiliaSerious","imgShocked": "DiscussionSystem/Portraits/EmiliaShocked"},
+				{"name":"Jay","imgHappy":"DiscussionSystem/Portraits/JayHappy","imgVeryHappy":"DiscussionSystem/Portraits/JayVeryHappy","imgSerious":"DiscussionSystem/Portraits/JaySerious","imgShocked": "DiscussionSystem/Portraits/JayShocked"}
+				{"name":"Mysterious Portal","imgSerious":"DiscussionSystem/Portraits/Other/Portal"}
+				{"name":"Mysterious Figure","imgSerious":"DiscussionSystem/Portraits/Other/Henchman"}
+			   ],
+	
+	"lines":[ {"side":1,"speakerIndex":1,"emote":"VeryHappy","text":"That's the last of them"},
+		  {"side":0,"speakerIndex":0,"emote":"VeryHappy","text":"I din't think we were going to make it"},
+		  {"side":1,"speakerIndex":2,"emote":"Serious","text":"Bzewwww"},
+		  {"side":1,"speakerIndex":1,"emote":"Shocked","text":"WHAT?? What is that?"},
+		  {"side":0,"speakerIndex":0,"emote":"Shocked","text":"OH MY GOD!"},
+		  {"side":1,"speakerIndex":2,"emote":"Serious","text":"Buuuuuup"},
+		  {"side":1,"speakerIndex":3,"emote":"Serious","text":"Just as planned, you're coming with me."},
+		  {"side":1,"speakerIndex":1,"emote":"Shocked","text":"GET YOUR HANDS OFF OF ME!"},
+		  {"side":0,"speakerIndex":0 ,"emote":"Shocked","text":"WHERE ARE YOU TAKING HIM?"},
+		  {"side":1 ,"speakerIndex":3 ,"emote":"Serious","text":"Back through the portal!"},
+		  {"side":1 ,"speakerIndex":2 ,"emote":"Serious","text":"Buuuuuup"},
+		  {"side":0 ,"speakerIndex":0 ,"emote":"Serious","text":"You are not getting away with this!"},
+		  {"side":1 ,"speakerIndex":0 ,"emote":"Serious","text":"Here goes nothing..."},
+		  {"side":1 ,"speakerIndex":2 ,"emote":"Serious","text":"Buuuuuup"}
+		  ]
+}

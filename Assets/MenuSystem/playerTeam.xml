@@ -1,0 +1,47 @@
+<data>
+	<Character>
+		<name>Sir Basterbon</name>
+		<class>TestClass</class>
+		
+		<health>6</health>
+		<speed>3</speed>
+		<skill>4</skill>
+		<smarts>3</smarts>
+		<strength>3</strength>
+		<source>Units/Unit 1</source>
+		<portait>Sprites/CloakPortrait</portait>
+		<weapons>
+			<weapon>TestCannon</weapon>
+		</weapons>
+	</Character>
+	<Character>
+		<name>dirp</name>
+		<class>TestClass</class>
+		
+		<health>6</health>
+		<speed>3</speed>
+		<skill>4</skill>
+		<smarts>1</smarts>
+		<strength>1</strength>
+		<source>Units/Unit</source>
+		<portait>Sprites/footSoldier0</portait>
+		<weapons>
+			<weapon>Sword</weapon>
+		</weapons>
+	</Character>
+	<Character>
+		<name>Sir Geun</name>
+		<class>TestClass</class>
+
+		<health>6</health>
+		<speed>3</speed>
+		<skill>4</skill>
+		<smarts>3</smarts>
+		<strength>3</strength>
+		<source>Units/Unit</source>
+		<portait>Sprites/TestSpritePortrait</portait>
+		<weapons>
+			<weapon>TestShield</weapon>
+		</weapons>
+	</Character>
+</data>

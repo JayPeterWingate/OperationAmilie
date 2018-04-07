@@ -1,0 +1,17 @@
+{
+	"speakers":[{"name":"Emilia","imgHappy":"DiscussionSystem/Portraits/EmiliaHappy","imgVeryHappy":"DiscussionSystem/Portraits/EmiliaVeryHappy","imgSerious":"DiscussionSystem/Portraits/EmiliaSerious","imgShocked": "DiscussionSystem/Portraits/EmiliaShocked"},
+				{"name":"Saphire","imgHappy":"DiscussionSystem/Portraits/SaphireHappy","imgVeryHappy":"DiscussionSystem/Portraits/SaphireVeryHappy","imgSerious":"DiscussionSystem/Portraits/SaphireSerious","imgShocked": "DiscussionSystem/Portraits/SaphireShocked"},
+			   ],
+	
+	"lines":[ {"side":1,"speakerIndex":1,"emote":"Happy","text":"I think we lost them!"},
+			  {"side":0,"speakerIndex":0,"emote":"Serious","text":"It would seem so, are you hurt?"},
+			  {"side":1,"speakerIndex":1,"emote":"Happy","text":"Not too badly, you?"},
+			  {"side":0,"speakerIndex":0,"emote":"Serious","text":"No not much, we should get to somewhere safe"},
+			  {"side":1,"speakerIndex":1,"emote":"Serious","text":"This brings me back to the question... Where are we?"},
+			  {"side":1,"speakerIndex":2,"emote":"Happy","text":"You came through the portal right? Welcome to a new dimension!"},
+			  {"side":0,"speakerIndex":1,"emote":"Shocked","text":"What??? No way, that sounds impossible!"},
+			  {"side":0,"speakerIndex":1,"emote":"Happy","text":"Well you are the one who stepped through the portal, where did you think it'd lead?"},
+			  {"side":0,"speakerIndex":1,"emote":"Shocked","text":"I only came through because... JAY! We need to find my partner, he was abducted by those people!"},
+			  {"side":0,"speakerIndex":1,"emote":"Serious","text":"I thought that may have been the kind of operation being conducted here. We will get him back but we can't help if we are captured. Come let's get somewhere safe."}
+			  ]
+}

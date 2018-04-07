@@ -1,0 +1,10 @@
+{
+	"speakers":[{"name":"Basterbon", "imgHappy":"DiscussionSystem/CloakPortrait"},
+				{"name":"Gregor","imgHappy":"DiscussionSystem/TestSpritePortrait"}],
+	
+	"lines":[ {"side":0,"speakerIndex":0,"emote":"Happy","text":"Level2"},
+		  {"side":1,"speakerIndex":1,"emote":"Happy","text":"This is scary "},
+		  {"side":0,"speakerIndex":0,"emote":"Happy","text":"We are through the looking glass!"},
+		  {"side":1,"speakerIndex":1,"emote":"Happy","text":"Ahhhh"},
+		  {"side":0,"speakerIndex":0,"emote":"Happy","text":"I can do this"}]
+}

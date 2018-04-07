@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<enemy name ="No Enemy">
+		<name>No Enemy</name>
+		<class>none</class>
+
+		<health>0</health>
+		<speed>0</speed>
+		<skill>0</skill>
+		<smarts>0</smarts>
+		<strength>0</strength>
+		<source>Units/spawner</source>
+		<portait>Sprites/footSoldier0</portait>
+		<weapons>
+			<weapon>Sword</weapon>
+		</weapons>
+		<image>imgSource/decor/noObject</image>
+		<healthThreshold>2</healthThreshold>
+		<sightRange>5</sightRange>
+	</enemy>
+	<enemy name ="Player Spawn">
+		<name>Player Spawn</name>
+		<class>none</class>
+
+		<health>0</health>
+		<speed>0</speed>
+		<skill>0</skill>
+		<smarts>0</smarts>
+		<strength>0</strength>
+		<source>Units/Unit</source>
+		<portait>Sprites/footSoldier0</portait>
+		<weapons>
+			<weapon>Sword</weapon>
+		</weapons>
+		<image>imgSource/units/testObject</image>
+		<healthThreshold>2</healthThreshold>
+		<sightRange>5</sightRange>
+	</enemy>
+
+	<enemy name ="PaintBaller">
+		<name>Paint Baller</name>
+		<class>Kid</class>
+
+		<health>6</health>
+		<speed>3</speed>
+		<skill>4</skill>
+		<smarts>3</smarts>
+		<strength>3</strength>
+		<source>Units/FPaintBall</source>
+		<portait>Sprites/footSoldier0</portait>
+		<weapons>
+			<weapon>TestShield</weapon>
+			<weapon>TestCannon</weapon>
+			
+		</weapons>
+		<image>imgSource/units/scout1</image>
+		<healthThreshold>2</healthThreshold>
+		<sightRange>5</sightRange>
+	</enemy>
+	<enemy name ="TestShield">
+		<name>TestEnemy</name>
+		<class>Tester</class>
+		
+		<health>6</health>
+		<speed>3</speed>
+		<skill>4</skill>
+		<smarts>3</smarts>
+		<strength>3</strength>
+		<source>Units/Unit</source>
+		<portait>Sprites/footSoldier0</portait>
+		<weapons>
+			<weapon>Sword</weapon>
+		</weapons>
+		<image>imgSource/units/scout0</image>
+		<healthThreshold>2</healthThreshold>
+		<sightRange>5</sightRange>
+	</enemy>
+	<enemy name ="TestGun">
+		<name>TestEnemy</name>
+		<class>Tester</class>
+
+		<health>6</health>
+		<speed>3</speed>
+		<skill>4</skill>
+		<smarts>3</smarts>
+		<strength>3</strength>
+		<source>Units/Unit 1</source>
+		<portait>Sprites/footSoldier0</portait>
+		<weapons>
+			<weapon>Sword</weapon>
+		</weapons>
+		<image>imgSource/units/scout0</image>
+		<healthThreshold>2</healthThreshold>
+		<sightRange>5</sightRange>
+	</enemy>
+
+	<enemy name="Thug">
+		<name>Thug</name>
+		<class>Lowlife</class>
+
+		<health>6</health>
+		<speed>3</speed>
+		<skill>4</skill>
+		<smarts>2</smarts>
+		<strength>5</strength>
+		<source>Units/Thug</source>
+		<portait>Sprites/footSoldier0</portait>
+		<weapons>
+			<weapon>Pistol</weapon>
+		</weapons>
+		<image>imgSource/units/scout0</image>
+		<healthThreshold>2</healthThreshold>
+		<sightRange>4</sightRange>
+	</enemy>
+
+	<enemy name="Stripper">
+		<name>Stripper</name>
+		<class>Lowlife</class>
+
+		<health>3</health>
+		<speed>5</speed>
+		<skill>2</skill>
+		<smarts>2</smarts>
+		<strength>3</strength>
+		<source>Units/Stripper</source>
+		<portait>Sprites/footSoldier0</portait>
+		<weapons>
+			<weapon>Knife</weapon>
+		</weapons>
+		<image>imgSource/units/scout0</image>
+		<healthThreshold>2</healthThreshold>
+		<sightRange>4</sightRange>
+	</enemy>
+
+</data>

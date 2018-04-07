@@ -1,0 +1,11 @@
+{
+	"speakers":[{"name":"Emilia","imgHappy":"DiscussionSystem/Portraits/EmiliaHappy","imgVeryHappy":"DiscussionSystem/Portraits/EmiliaVeryHappy","imgSerious":"DiscussionSystem/Portraits/EmiliaSerious","imgShocked": "DiscussionSystem/Portraits/EmiliaShocked"},
+				{"name":"Jay","imgHappy":"DiscussionSystem/Portraits/JayHappy","imgVeryHappy":"DiscussionSystem/Portraits/JayVeryHappy","imgSerious":"DiscussionSystem/Portraits/JaySerious","imgShocked": "DiscussionSystem/Portraits/JayShocked"}
+			   ],
+	
+	"lines":[ {"side":1,"speakerIndex":1,"emote":"Happy","text":"Got one!"},
+		  {"side":0,"speakerIndex":0,"emote":"Serious","text":"Good job! one down, five left."},
+		  {"side":0,"speakerIndex":0,"emote":"VeryHappy","text":"I forgot how fun paintballing can be"},
+		  {"side":1,"speakerIndex":1,"emote":"Happy","text":"I am glad you are enjoying it. Just stay on your toes, it's just me and you left"},
+		  {"side":0,"speakerIndex":0,"emote":"VeryHappy","text":"Lets do it!"}]
+}

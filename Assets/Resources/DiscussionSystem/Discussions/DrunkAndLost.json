@@ -1,0 +1,10 @@
+{
+	"speakers":[{"name":"Basterbon", "imgHappy":"DiscussionSystem/CloakPortrait"},
+				{"name":"Gregor","imgHappy":"DiscussionSystem/TestSpritePortrait"}],
+	
+	"lines":[ {"side":0,"speakerIndex":0,"emote":"Happy","text":"This doesn't even look like it'll be too hard to write!"},
+		  {"side":1,"speakerIndex":1,"emote":"Happy","text":"I love exclimation marks!!!!"},
+		  {"side":0,"speakerIndex":0,"emote":"Happy","text":"What ever makes you say that?!?!?!"},
+		  {"side":1,"speakerIndex":1,"emote":"Happy","text":"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1!!!!!!!!!!!!!!"},
+		  {"side":0,"speakerIndex":0,"emote":"Happy","text":"Stress testing I see?"}]
+}

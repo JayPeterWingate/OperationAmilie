@@ -1,0 +1,103 @@
+<data>
+	
+	<Character>
+		<name>Jay</name>
+		<class>Amazing Boyfriend</class>
+		
+		<health>6</health>
+		<speed>3</speed>
+		<skill>4</skill>
+		<smarts>3</smarts>
+		<strength>3</strength>
+		<source>Units/FPaintBall</source>
+		<portait>DiscussionSystem/Portraits/BluePaintSerious</portait>
+		<weapons>
+			<weapon>Rapier</weapon>
+		</weapons>
+	</Character>
+
+	<Character>
+		<name>Emilia</name>
+		<class>Protagonist</class>
+
+		<health>6</health>
+		<speed>10</speed>
+		<skill>10</skill>
+		<smarts>3</smarts>
+		<strength>3</strength>
+		<source>Units/Emilia</source>
+		<portait>DiscussionSystem/Portraits/EmiliaSerious</portait>
+		<weapons>
+			<weapon>Assult Rifle</weapon>
+		</weapons>
+	</Character>
+
+	<Character>
+		<name>Saphire</name>
+		<class>Mystic</class>
+
+		<health>6</health>
+		<speed>3</speed>
+		<skill>4</skill>
+		<smarts>3</smarts>
+		<strength>3</strength>
+		<source>Units/Saphire</source>
+		<portait>Sprites/CloakPortrait</portait>
+		<weapons>
+			<weapon>Light Sword</weapon>
+		</weapons>
+	</Character>
+
+	<Character>
+		<name>Emile</name>
+		<class>Lost</class>
+
+		<health>6</health>
+		<speed>3</speed>
+		<skill>4</skill>
+		<smarts>3</smarts>
+		<strength>3</strength>
+		<source>Units/Emile</source>
+		<portait>Sprites/CloakPortrait</portait>
+		<weapons>
+			<weapon>Hand Cannon</weapon>
+			<weapon>knife</weapon>
+		</weapons>
+	</Character>
+
+	<Character>
+		<name>Liam</name>
+		<class>Bounty Hunter</class>
+
+		<health>6</health>
+		<speed>3</speed>
+		<skill>4</skill>
+		<smarts>3</smarts>
+		<strength>3</strength>
+		<source>Units/Liam</source>
+		<portait>Sprites/CloakPortrait</portait>
+		<weapons>
+			<weapon>SMG</weapon>
+			<weapon>Batton</weapon>
+		</weapons>
+	</Character>
+
+	<Character>
+		<name>Daniel</name>
+		<class>Bird-Person</class>
+
+		<health>6</health>
+		<speed>3</speed>
+		<skill>4</skill>
+		<smarts>3</smarts>
+		<strength>3</strength>
+		<source>Units/Daniel</source>
+		<portait>Sprites/CloakPortrait</portait>
+		<weapons>
+			<weapon>TestCannon</weapon>
+		</weapons>
+	</Character>
+
+	
+	
+</data>

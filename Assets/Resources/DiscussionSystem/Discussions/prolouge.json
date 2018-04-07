@@ -1,0 +1,11 @@
+{
+	"speakers":[{"name":"Emilia","imgHappy":"DiscussionSystem/Portraits/EmiliaHappy","imgVeryHappy":"DiscussionSystem/Portraits/EmiliaVeryHappy","imgSerious":"DiscussionSystem/Portraits/EmiliaSerious","imgShocked": "DiscussionSystem/Portraits/EmiliaShocked"},
+				{"name":"Jay","imgHappy":"DiscussionSystem/Portraits/JayHappy","imgVeryHappy":"DiscussionSystem/Portraits/JayVeryHappy","imgSerious":"DiscussionSystem/Portraits/JaySerious","imgShocked": "DiscussionSystem/Portraits/JayShocked"}
+			   ],
+	
+	"lines":[ {"side":0,"speakerIndex":0,"emote":"Shocked","text":"This is the proluge!"},
+		  {"side":1,"speakerIndex":1,"emote":"Serious","text":"Why yes yes it is"},
+		  {"side":0,"speakerIndex":0,"emote":"VeryHappy","text":"Hazzar, it works!"},
+		  {"side":1,"speakerIndex":1,"emote":"Shocked","text":"What does?"},
+		  {"side":0,"speakerIndex":0,"emote":"VeryHappy","text":"The prolouge!"}]
+}

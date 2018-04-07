@@ -1,0 +1,10 @@
+{
+	"speakers":[{"name":"Basterbon", "imgHappy":"DiscussionSystem/BluePaintSerious"},
+				{"name":"Gregor","imgHappy":"DiscussionSystem/TestSpritePortrait"}],
+	
+	"lines":[ {"side":0,"speakerIndex":0,"emote":"Happy","text":"Bubum bubum bumm"},
+		  {"side":1,"speakerIndex":1,"emote":"Happy","text":"I'm loving it"},
+		  {"side":0,"speakerIndex":0,"emote":"Happy","text":"Hazzar, it works!"},
+		  {"side":1,"speakerIndex":1,"emote":"Happy","text":"What does?"},
+		  {"side":0,"speakerIndex":0,"emote":"Happy","text":"The thing!"}]
+}

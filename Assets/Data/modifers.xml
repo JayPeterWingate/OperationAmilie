@@ -1,0 +1,46 @@
+<data>
+	<Tile name = "Clear">
+		<index>0</index>
+		<name>Clear</name>
+		<prefabDir>Tiles/TileWall</prefabDir>
+		<imgLocation>imgSource/decor/noObject</imgLocation>
+		<passable>false</passable>
+		<movementCost>1</movementCost>
+		<coverValue>0</coverValue>
+		<height>0.5</height>
+		<visibleBlocking>False</visibleBlocking>
+	</Tile>
+	<Tile name = "Impassable">
+		<index>1</index>
+		<name>Impassable</name>
+		<prefabDir>Tiles/TileWall</prefabDir>
+		<imgLocation>imgSource/tiles/testTile</imgLocation>
+		<passable>false</passable>
+		<movementCost>1</movementCost>
+		<coverValue>0</coverValue>
+		<height>1.0</height>
+		<visibleBlocking>True</visibleBlocking>
+	</Tile>
+	<Tile name = "Cover">
+		<index>1</index>
+		<name>Cover</name>
+		<prefabDir>Tiles/TileMountain</prefabDir>
+		<imgLocation>imgSource/tiles/testTile</imgLocation>
+		<passable>false</passable>
+		<movementCost>1</movementCost>
+		<coverValue>5</coverValue>
+		<height>1.0</height>
+		<visibleBlocking>False</visibleBlocking>
+	</Tile>
+  <Tile name = "losBlock">
+    <index>1</index>
+    <name>TestTile</name>
+    <prefabDir>Tiles/TileMountain</prefabDir>
+    <imgLocation>imgSource/tiles/testTile</imgLocation>
+    <passable>True</passable>
+    <movementCost>1</movementCost>
+    <coverValue>5</coverValue>
+    <height>1.0</height>
+    <visibleBlocking>True</visibleBlocking>
+  </Tile>
+</data>

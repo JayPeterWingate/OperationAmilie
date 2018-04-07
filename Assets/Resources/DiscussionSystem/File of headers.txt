@@ -1,0 +1,13 @@
+Speaker
+Emilia
+{"name":"Emilia","imgHappy":"DiscussionSystem/Portraits/EmiliaHappy","imgVeryHappy":"DiscussionSystem/Portraits/EmiliaVeryHappy","imgSerious":"DiscussionSystem/Portraits/EmiliaSerious","imgShocked": "DiscussionSystem/Portraits/EmiliaShocked"}
+Jay
+{"name":"Jay","imgHappy":"DiscussionSystem/Portraits/JayHappy","imgVeryHappy":"DiscussionSystem/Portraits/JayVeryHappy","imgSerious":"DiscussionSystem/Portraits/JaySerious","imgShocked": "DiscussionSystem/Portraits/JayShocked"}
+Saphire
+{"name":"Saphire", "imgHappy":"DiscussionSystem/Portraits/SaphireHappy","imgVeryHappy":"DiscussionSystem/Portraits/SaphireVeryHappy","imgSerious":"DiscussionSystem/Portraits/SaphireSerious","imgShocked": "DiscussionSystem/Portraits/SaphireShocked"}
+Liam
+{"name":"Liam", "imgHappy":"DiscussionSystem/Portraits/LiamHappy","imgVeryHappy":"DiscussionSystem/Portraits/LiamVeryHappy","imgSerious":"DiscussionSystem/Portraits/LiamSerious","imgShocked": "DiscussionSystem/Portraits/LiamShocked"}
+Daniel
+{"name":"Daniel", "imgHappy":"DiscussionSystem/Portraits/DanielHappy","imgVeryHappy":"DiscussionSystem/Portraits/DanielVeryHappy","imgSerious":"DiscussionSystem/Portraits/DanielSerious","imgShocked": "DiscussionSystem/Portraits/DanielShocked"}
+Emile
+{"name":"Emile", "imgHappy":"DiscussionSystem/Portraits/EmileHappy","imgVeryHappy":"DiscussionSystem/Portraits/EmileVeryHappy","imgSerious":"DiscussionSystem/Portraits/EmileSerious","imgShocked": "DiscussionSystem/Portraits/EmileShocked"}
